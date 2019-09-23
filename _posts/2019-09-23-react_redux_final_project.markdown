@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React/Redux Final Project"
-date:       2019-09-23 17:43:05 +0000
+date:       2019-09-23 13:43:05 -0400
 permalink:  react_redux_final_project
 ---
 
